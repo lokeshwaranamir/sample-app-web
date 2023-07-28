@@ -48,6 +48,7 @@ class LoginPage extends BasePage {
         }
 
         this.#loginButton.click();
+        //Making few changes in the login page as comments 
     }
 
     /**
