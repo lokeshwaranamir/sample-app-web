@@ -9,6 +9,7 @@ class LoginPage extends BasePage {
     }
 
     //Testing Changes one
+    //Testing Changes two
 
     // Make it private so people can't mess with it
     // Source: https://github.com/tc39/proposal-class-fields#private-fields
