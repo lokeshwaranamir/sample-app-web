@@ -8,11 +8,8 @@ class LoginPage extends BasePage {
         super(SCREEN_SELECTOR);
     }
 
-    //Testing Changes one
-    //Testing Changes two
-    //Testing changes Three
+    //TechMecanics Session Changes
 
-    
     // Make it private so people can't mess with it
     // Source: https://github.com/tc39/proposal-class-fields#private-fields
     get #screen() {
