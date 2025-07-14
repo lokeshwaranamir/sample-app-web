@@ -61,6 +61,8 @@ class MenuPage {
     restAppState() {
         this.#resetButton.click();
     }
+
+    // new changes in menu page
 }
 
 export default new MenuPage();
