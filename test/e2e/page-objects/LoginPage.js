@@ -9,6 +9,7 @@ class LoginPage extends BasePage {
     }
 
     //TechMecanics Session Changes
+    //new changes
 
     // Make it private so people can't mess with it
     // Source: https://github.com/tc39/proposal-class-fields#private-fields
