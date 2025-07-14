@@ -8,8 +8,7 @@ class LoginPage extends BasePage {
         super(SCREEN_SELECTOR);
     }
 
-    //TechMecanics Session Changes
-    //new changes to validate the lokesh script
+//made few chnages for running impact based testing
 
     // Make it private so people can't mess with it
     // Source: https://github.com/tc39/proposal-class-fields#private-fields
