@@ -1,5 +1,6 @@
 class MenuPage {
     // Make it private so people can't mess with it
+    //add new chnages
     // Source: https://github.com/tc39/proposal-class-fields#private-fields
     get #menu() {
         return $('.bm-burger-button');
