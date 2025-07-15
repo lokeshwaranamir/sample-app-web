@@ -62,7 +62,7 @@ class MenuPage {
         this.#resetButton.click();
     }
 
-    // new changes in menu page
+    // new changes in menu pages
 }
 
 export default new MenuPage();
